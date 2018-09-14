@@ -3,7 +3,7 @@ name: "Po's Blog"
 description: "My pretty awesome blog or so"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/img/logo.svg'
-favicon: 'assets/img/logo.svg'
+favicon: 'assets/img/favicon.ico'
 # baseurl: /
 google_analytics: 'UA-122600677-2'
 # disqus: 'blog.phohuynh.com'
