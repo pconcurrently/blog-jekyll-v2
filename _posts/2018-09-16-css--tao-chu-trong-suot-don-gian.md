@@ -10,7 +10,6 @@ tags: [css, transparent-text, chu-trong-suot, huong-dan]
 ---
 
 ## Chữ trong suốt?
-
 Thực ra không hề có chữ trong suốt trong CSS, mà ở đây chúng ta sẽ lợi dụng `blending mode` của CSS để tạo ra hiệu ứng này.
 Nếu như đã từng "chơi" với Photoshop thì bạn cũng có thể biết đến cụm từ `blending mode` này vì thực chất đó là một.
 
