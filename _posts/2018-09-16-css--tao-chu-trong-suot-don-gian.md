@@ -78,4 +78,10 @@ Nhìn qua thì có thể thấy được, màu nào `multiply` với màu trắn
 
 Cho nên phần chữ màu trắng (`color: white`) của chúng ta sẽ có màu của background ngay dưới nó và phần nền màu đen (`background-color: black`) sẽ giữ nguyên như thế.
 
+**Browsers support**
+
+![Browsers Support](/assets/img/posts/css-transparent-text/browsers-support.png "Browsers Support")
+
+<https://caniuse.com/#search=mix-blend-mode>
+
 Happy coding!
