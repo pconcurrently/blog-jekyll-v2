@@ -11,7 +11,7 @@ tags: [vue, vuejs]
 
 ## Giới thiệu sơ về Vue.js
 Ok, có lẽ bạn đã nghe qua về `Vue.js` ít nhất là một (vài) lần và có mong muốn biết thêm về *framework* này.
-Điều đầu tiên bạn cần biết, `Vue.js` là một *framework* trong khi `React.js` là một *library* chuyển xử lý view layer (UI).
+Điều đầu tiên bạn cần biết, `Vue.js` là một *framework* trong khi `React.js` là một *library* chuyên xử lý view layer (UI).
 
 Nếu như bạn từng làm việc với React thì bạn sẽ để ý sự khác biệt rõ ràng giữa `Vue.js` và `React.js`: React yêu cầu dev phải tích hợp (integrate) các thư việc thứ 3 (3rd party package) thì mới có thể hoạt động trơn tru và hoàn chỉnh, trong khi `Vue.js` cung cấp sẵn những thư viện như vậy rồi.
 
@@ -20,7 +20,7 @@ Cả 2 React và Vue đều tận dụng `Virtual DOM` để tăng khả năng x
 Bạn có thể tìm hiểu thêm rất nhiều bài viết trên mạng về việc so sánh `Vue.js` và các framework/library khác. Hiện tại mình sẽ giới thiệu cách tạo một app ToDo đơn giản để những bạn muốn tìm hiểu `Vue.js` có cái nhìn tổng quan về framework khá được cộng đồng thích thú này.
 
 ## TODO App
-Cũng nhưng React, `Vue.js` cung cấp một tool CLI giúp cho việc setup project (`create-react-app`): `vue-cli`.
+Cũng như React, `Vue.js` cung cấp một tool CLI giúp cho việc setup project (`create-react-app`): `vue-cli`.
 
 Bắt đầu bằng việc cài `vue-cli`:
 ```
@@ -76,7 +76,7 @@ Bây giờ tạo một file `ToDoItem.vue` ở `src/components/ToDo/ToDoItem.vue
 Giải thích:
 `ToDoItem.vue` chia làm 3 phần rõ rệt `template`, `script` và `style`.
 
-`template`: Cú pháp này cơ bản là thêm markup vào trong HTML, khá giống với Angular 1.
+`template`: Cú pháp này cơ bản là thêm markup vào trong HTML, khá giống với Angular v1.
 
 `script`: 
  - `name`: tên của component, chủ yếu dùng để component tự gọi bảng thân (recursive), tạm thời thì biến này không có tác dụng gì trong ví dụ này, bạn có thể đổi thành bất cứ gì mà nó vẫn chạy như bình thường
@@ -90,7 +90,7 @@ npm install -D sass-loader node-sass
 ```
 Còn lại thì `webpack` sẽ tự động xử lý, khá tiện lợi!
 
-Một feature thú vị nữa là nếu bạn thêm như thế này: `<style lang="scss" scoped>` thì style định nghĩa ở đây sẽ chỉ có tác dụng trong componen này thôi (Khá giống với một tính năng của Angular 2 bảng beta mình từng làm).
+Một feature thú vị nữa là nếu bạn thêm như thế này: `<style lang="scss" scoped>` thì style định nghĩa ở đây sẽ chỉ có tác dụng trong component này thôi (Khá giống với một tính năng của Angular 2 bảng beta mình từng làm).
 
 
 
@@ -183,7 +183,7 @@ this.todo = '';
 
 `Vue.js` tự động xử lý chỗ này, có vẻ như `Vue.js` thêm một chút *magic* cho dev 😌 Nhưng tại sao `React.js` không làm như vậy? Dường như `React.js` cũng có lý do để làm vậy! Google thêm nhé!
 
-Bước cuối cùng chỉ là thêm component `ToDo.vue` vào `router` để nó hiển thị khi chạy app thôi.
+Bước cuối cùng chỉ là thêm component `ToDo.vue` vào `router` (`src/router/index.js`) để nó hiển thị khi chạy app thôi.
 
 ```javascript
 import Vue from 'vue';
@@ -204,6 +204,8 @@ export default new Router({
 ```
 
 Chạy app bằng command `npm start` và xem kết quả!
+
+Code được mình lưu giữ ở repo: [https://github.com/shortgiraffe4/vue-todo](https://github.com/shortgiraffe4/vue-todo)
 
 *Bài tiếp theo mình sẽ so sánh `React.js` và `Vue.js` khi tạo cùng 1 app ToDo.*
 
