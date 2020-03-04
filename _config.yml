@@ -19,6 +19,12 @@ authors:
     web: https://phohuynh.com
     twitter: https://twitter.com/shortgiraffe4
     description: "A web developer"
+  meobeoi:
+    name: TrungNM
+    display_name: Mèo Béo Ị
+    gravatar: 708a3f186fd7f6eb4237c93cd4fd7836
+    email: nguyenminhtrung0512@gmail.com
+    description: "A Cat"
 
 # Plugins
 plugins: 

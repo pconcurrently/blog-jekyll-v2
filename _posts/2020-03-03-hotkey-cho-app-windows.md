@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Hotkey chuyển app nhanh cho người dùng Windows "
-author: TrungNM
+author: meobeoi
 # categories: [ tutorial ]
 featured: true
+image: assets/img/posts/default.png
 # hidden: true
 tags: [mbi, trungnm]
 ---
