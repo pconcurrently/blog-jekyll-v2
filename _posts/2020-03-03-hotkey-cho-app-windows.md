@@ -63,8 +63,8 @@ return
 ```
 
 ## Cách sử dụng
-- <kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>C</kbd>: sẽ chuyển sang Chrome ( hoặc bật nếu chưa có sẵn )
-- <kbd>Alt</kbd> <kbd>C</kbd>: cho giống MacOs
+- <kbd>R Alt</kbd> <kbd>C</kbd>: sẽ chuyển sang Chrome ( hoặc bật nếu chưa có sẵn )
+- <kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>C</kbd>: cho giống MacOs
 
 Mình chỉ cung cấp công cụ thôi, autohotkey còn nhiều các lệnh khách, các bạn tự đọc thêm Docs và Google nếu muốn tùy chỉnh thêm
 
