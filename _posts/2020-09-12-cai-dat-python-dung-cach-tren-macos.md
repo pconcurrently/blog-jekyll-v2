@@ -3,7 +3,7 @@ layout: post
 title:  "Cài đặt Python đúng cách trên MacOS"
 author: po
 # categories: [ tutorial ]
-featured: true
+# featured: true
 image: assets/img/posts/default.png
 # hidden: true
 tags: [python3, macos, python, install-python]
