@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://concurrently.dev/</loc>
+	<lastmod>2020-12-01T06:30:50+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2020/09/12/cai-dat-python-dung-cach-tren-macos.html</loc>
+	<lastmod>2020-12-01T06:30:50+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2020/03/03/hotkey-cho-app-windows.html</loc>
+	<lastmod>2020-12-01T06:30:53+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2018/09/17/tao-tooltip-chi-voi-html-va-css.html</loc>
+	<lastmod>2020-12-01T06:30:53+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2018/09/16/css-tao-chu-trong-suot-don-gian.html</loc>
+	<lastmod>2020-12-01T06:30:54+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/page2/</loc>
+	<lastmod>2020-12-01T06:30:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2018/09/11/tao-proxy-server-voi-google-compute-engine-gce.html</loc>
+	<lastmod>2020-12-01T06:30:54+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2018/08/08/css-8-cach-de-can-giua-dom-theo-chieu-doc.html</loc>
+	<lastmod>2020-12-01T06:30:54+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2018/07/25/webpack-4-tu-co-ban-cho-den-xay-dung-project-react-es-6-build-production.html</loc>
+	<lastmod>2020-12-01T06:30:55+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://concurrently.dev/2018/07/22/tao-server-cdn-voi-google-cloud-storage.html</loc>
+	<lastmod>2020-12-01T06:30:55+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+</urlset>
