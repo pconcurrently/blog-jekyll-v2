@@ -1,6 +1,6 @@
 # Site
 name: "concurrently.dev"
-description: "dev blog"
+# description: "dev blog"
 meta_description: "blog for dev."
 logo: 'assets/img/logo.svg'
 favicon: 'assets/img/favicon.ico'
